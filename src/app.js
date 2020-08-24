@@ -69,12 +69,10 @@ app.post("/repositories/:id/like", (request, response) => {
     (repository) => repository.id === id
   );
 
-  if (repositoryIndex < 0)
+  if (repositoryIndex === -1)
     return response.status(400).json({ error: "repository does not exists" });
 
-  const likes = repositories[repositoryIndex].likes + 1;
-
-  repositories[repositoryIndex].likes = likes;
+  repositories[repositoryIndex].likes += 1;
 
   response.json(repositories[repositoryIndex]);
 });

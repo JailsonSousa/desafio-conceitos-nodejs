@@ -4,20 +4,20 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
+## O que aprendi nesse modulo?
+
+ - Conceitos de Node.js 
+ - Conceitos de API Rest 
+ - Métodos HTTP 
+ - Tipos de Parâmetros das requisições REST
+ - Middlewares
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio foi colocado em pratica todo conhecimento adquirido no modulo de conceitos com nodejs. 
 O desafio consistia em criar uma backend em nodejs para armazenar informações de vários repositórios.
 
 **Obs: Como o objetivo era entender os conceitos iniciais, os dados foram armazenado em um array.**
-
-### O que foi aprendido?
-
- - Conceitos Node.js 
- - Conceitos API Rest 
- - Métodos HTTP 
- - Tipos de Parâmetros das requisições REST
- - Middlewares
 
 ### Rotas da aplicação
 

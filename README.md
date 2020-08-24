@@ -4,7 +4,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-## O que aprendi nesse modulo?
+## 👨🏻‍💻 O que aprendi nesse modulo?
 
  - Conceitos de Node.js 
  - Conceitos de API Rest 
